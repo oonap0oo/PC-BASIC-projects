@@ -13,7 +13,7 @@ An animated GIF recording, the real output can be smoother
 
 ## Fedora
 
-A classic rendering of a fedora hat. Uses black vertical lines drawn from each white pixels to hide parts of the had which should not be visible.
+A classic rendering of a fedora hat. Uses black vertical lines drawn from each green pixel to hide parts of the hat which should not be visible.
 
 The code: [fedora.bas](fedora.bas)
 
