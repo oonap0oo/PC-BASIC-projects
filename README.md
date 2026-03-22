@@ -21,3 +21,21 @@ The code: [fedora.bas](fedora.bas)
 
 The output:
 ![fedora.png](fedora.png)
+
+## Sierpinski triangle
+
+This piece of code plots a Sierpinski triangle using the method called 'Chaos game'.
+
+    From wikipedia:
+    1. Take three points in a plane to form a triangle.
+    2. Randomly select any point inside the triangle and consider that your current position.
+    3. Randomly select any one of the three vertex points.
+    4. Move half the distance from your current position to the selected vertex.
+    5. Plot the current position.
+    6. Repeat from step 3.
+
+  The code: [PCSIERP.BAS](PCSIERP.BAS)
+
+  ![pcsierp_list.png](pcsierp_list.png)
+
+  ![PCSIERP.png](PCSIERP.png)
