@@ -50,7 +50,7 @@ A line is drawn from each point n to the point with number:
 
     (n * p) mod m
 
-To implement this in PC-BASIC the built in MOD function was not sufficient as it is limited to integer range −32768 to +32767. Many interesting exmaples need a larger range. 
+To implement this in PC-BASIC the built in MOD function was not sufficient as it is limited to integer range −32768 to +32767. Many interesting examples need a larger range. 
 
 The MOD function is implemented as:
 
@@ -59,6 +59,7 @@ The MOD function is implemented as:
 The code: [pcmodcir.bas](pcmodcir.bas)
 
 An example output being drawn:
+
 ![pcmodcir3.gif](pcmodcir3.gif)
 
 ![pcmodcir.png](pcmodcir.png)
