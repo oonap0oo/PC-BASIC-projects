@@ -58,6 +58,8 @@ The MOD function is implemented as:
 
 The code: [pcmodcir.bas](pcmodcir.bas)
 
+![pcmodcir_list.png](pcmodcir_list.png)
+
 An example output being drawn:
 
 ![pcmodcir3.gif](pcmodcir3.gif)
