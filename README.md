@@ -39,3 +39,29 @@ This piece of code plots a Sierpinski triangle using the method called 'Chaos ga
   ![pcsierp_list.png](pcsierp_list.png)
 
   ![PCSIERP.png](PCSIERP.png)
+
+## Modular Multiplication Circles
+
+Equally spaced points are placed on a circle numbered 0 to m-1. 
+
+Second parameter p is the multiplyer. 
+
+A line is drawn from each point n to the point with number:
+
+    (n * p) mod m
+
+To implement this in PC-BASIC the built in MOD function was not sufficient as it is limited to integer range −32768 to +32767. Many interesting exmaples need a larger range. 
+
+The MOD function is implemented as:
+
+     x mod y = CInt((x / y - Int(x / y)) * y)
+
+The code: [pcmodcir.bas](pcmodcir.bas)
+
+An example output being drawn:
+![pcmodcir3.gif](pcmodcir3.gif)
+
+![pcmodcir.png](pcmodcir.png)
+
+![pcmodcir2.png](pcmodcir2.png)
+
