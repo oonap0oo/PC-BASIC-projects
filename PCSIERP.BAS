@@ -9,9 +9,8 @@
 90 CX!(1) = XMAX% - BORDER%: CY!(1) = YMAX% - BORDER%
 100 PX! = CX!(0): PY! = CY!(0)
 110 COL% = 0: COL2% = 0: COL3% = 0
-120 For K! = 1 To 70000!
-125 Rem using mod to get more random index
-130 INDEX% = CInt(Rnd * 10!) Mod 3
+120 For K! = 1 To 60000!
+130 INDEX% = Int(Rnd * 3)
 140 PX! = (PX! + CX!(INDEX%)) / 2!
 150 PY! = (PY! + CY!(INDEX%)) / 2!
 160 PSet (PX!, PY!), COL3%
