@@ -22,7 +22,7 @@ The code: [fedora.bas](fedora.bas)
 The output:
 ![fedora.png](fedora.png)
 
-## Sierpinski triangle
+## Sierpinski triangle, using 'chaos game' method
 
 This piece of code plots a Sierpinski triangle using the method called 'Chaos game'.
 
@@ -39,6 +39,16 @@ This piece of code plots a Sierpinski triangle using the method called 'Chaos ga
   ![pcsierp_list.png](pcsierp_list.png)
 
   ![PCSIERP.png](PCSIERP.png)
+
+## Hexagon, using 'chaos game' method
+
+Constructed similarly as the Sierpinsky Triangle, this hexagon needs the ratio between the distance new point - old point and the distance random vertex - old point to be .667? See [wikipedia - Chaos game](https://en.wikipedia.org/wiki/Chaos_game)
+
+The code: [chaoshex.bas](chaoshex.bas)
+
+![chaoshex.png](chaoshex.png)
+
+![chaoshex_list.png](chaoshex_list.png)
 
 ## Modular Multiplication Circles
 
