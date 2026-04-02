@@ -42,7 +42,9 @@ This piece of code plots a Sierpinski triangle using the method called 'Chaos ga
 
 ## Hexagon, using 'chaos game' method
 
-Constructed similarly as the Sierpinsky Triangle, this hexagon needs the ratio between the distance new point - old point and the distance random vertex - old point to be .667? See [wikipedia - Chaos game](https://en.wikipedia.org/wiki/Chaos_game)
+Constructed using a similar method as the Sierpinsky Triangle, this hexagon needs the ratio between the distance new point - old point and the distance random vertex - old point to be .667
+
+See [wikipedia - Chaos game](https://en.wikipedia.org/wiki/Chaos_game)
 
 The code: [chaoshex.bas](chaoshex.bas)
 
