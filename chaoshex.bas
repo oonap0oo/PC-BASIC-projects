@@ -1,4 +1,4 @@
-10 Rem Hexagon using chaos game for PC-BASIC
+10 Rem Hexagon using chaos game for PC-BASIC K Moerman 2026
 20 Randomize Timer: ASPECT! = 4 / 3 * 350 / 630 * Sqr(3) / 2: R! = .667
 30 H% = 350: W% = H% / ASPECT!: BRD% = (630 - W%) / 2
 40 Screen 9: Cls: Key Off
