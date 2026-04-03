@@ -1,4 +1,4 @@
-10 Rem Sierpinski triangle for PC-BASIC
+10 Rem Sierpinski triangle for PC-BASIC K Moerman 2026
 20 Randomize Timer
 30 XMAX% = 640: YMAX% = 350: BORDER% = 10
 40 Screen 9: Cls
