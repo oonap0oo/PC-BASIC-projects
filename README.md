@@ -15,12 +15,12 @@ An animated GIF recording, the real output can be smoother
 
 A classic rendering of a fedora hat. Uses black vertical lines drawn from each green pixel to hide parts of the hat which should not be visible.
 
-The code: [fedora.bas](fedora.bas)
+![fedora.png](fedora.png)
+
+The code: [fedora2.bas](fedora2.bas)
 
 ![fedora_list.png](fedora_list.png)
 
-The output:
-![fedora.png](fedora.png)
 
 ## Sierpinski triangle, using 'chaos game' method
 
