@@ -1,4 +1,4 @@
-10 ' Modular multiplication circle
+10 ' Modular multiplication circle K Moerman 2026
 20 PRINT "Modular multiplication circle"
 30 INPUT "Value of m, number used for modular division, hit enter for 300"; M%
 40 IF M% = 0 THEN M% = 300
