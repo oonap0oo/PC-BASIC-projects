@@ -80,3 +80,14 @@ An example output being drawn:
 
 ![pcmodcir2.png](pcmodcir2.png)
 
+## Bubble universe, simplified version for PC BASIC
+
+A simplified version suitable for interpreted PC BASIC
+
+The code: [bub3b.bas](bub3b.bas)
+
+[The full version for QB64 PE](https://github.com/oonap0oo/QB64-projects?tab=readme-ov-file#bubble-universe)
+
+This algorithm can be found on many places on the web in various programming languages. It seems hard to pinpoint where it originally came from.
+
+![bub3b.gif](bub3b.gif)
