@@ -1,6 +1,6 @@
 5 ' 3D Sphere with Back-Face Culling for hidden line removal  K Moerman 2026
 10 DefInt K, N
-20 PI = 4 * Atn(1): R = 190: N1 = 20: N2 = 30: RS = 0: ROT2 = -PI / 8: Dim XP(N1), ZP(N1)
+20 PI = 4 * Atn(1): R = 190: N1 = 14: N2 = 20:  ROT2 = -PI / 8: Dim XP(N1), ZP(N1)
 30 DA1 = 2 * PI / N1: DA2 = 2 * PI / N2: ASPX = 640 / 200 * 3 / 4: AF = 2 * PI / N2
 35 For KG = 0 To 3
 40 RS = AF * KG / 4
@@ -21,7 +21,7 @@
 185 Next KG
 190 For KG = 0 To 3
 200 Screen 8, , , KG
-210 PT = Timer + .25:
+210 PT = Timer + .5:
 220 If Timer < PT Then GoTo 220
 260 Next KG
 270 GoTo 190
