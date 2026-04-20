@@ -91,3 +91,16 @@ The code: [bub3b.bas](bub3b.bas)
 This algorithm can be found on many places on the web in various programming languages. It seems hard to pinpoint where it originally came from.
 
 ![bub3b.gif](bub3b.gif)
+
+## Rotating sphere with hidden line removal
+
+3D Sphere with Back-Face Culling for hidden line removal.
+
+The code: [pcsphere2.bas](pcsphere2.bas)
+
+It uses the 4 pages of screen 8 in PC BASIC to draw and store 4 different orientations of the ephere. 
+
+Page flipping then gives the illusion of the rotating sphere.
+
+![pcsphere2.gif](pcsphere2.gif)
+
