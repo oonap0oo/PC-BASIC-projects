@@ -104,3 +104,13 @@ Page flipping then gives the illusion of the rotating sphere.
 
 ![pcsphere2.gif](pcsphere2.gif)
 
+## 3D Surface plot with hidden lines removal
+
+A 3D surface graph is plotted. Lines are only plotted if the points have a higher or lower screen y value then previous points with the same screen x value. This is a technique to remove hidden lines.
+
+[The code](pcsurf.bas)
+
+![pcsurf.png](pcsurf.png)
+
+[Watch the image being drawn on Youtube](https://youtu.be/mP-BgDIklgI)
+
