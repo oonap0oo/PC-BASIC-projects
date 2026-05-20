@@ -114,3 +114,14 @@ A 3D surface graph is plotted. Lines are only plotted if the points have a highe
 
 [Watch the image being drawn on Youtube](https://youtu.be/mP-BgDIklgI)
 
+## Pascal's and Sierpinski's triangles
+
+This program prints a section of Pascal's Triangle, only the last digit of each number is displayed. By marking the odd numbers a Sierpinski's triangle becomes visible.
+
+[pascal2.bas](pascal2.bas)
+
+![pascal2.png](pascal2.png)
+
+The same code also runs in GB64
+
+![pascal2_QB64.png](pascal2_QB64.png)
