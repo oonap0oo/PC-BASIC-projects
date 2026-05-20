@@ -122,6 +122,6 @@ This program prints a section of Pascal's Triangle, only the last digit of each 
 
 ![pascal2.png](pascal2.png)
 
-The same code also runs in GB64
+The same code also runs in QB64
 
 ![pascal2_QB64.png](pascal2_QB64.png)
