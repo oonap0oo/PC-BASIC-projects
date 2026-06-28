@@ -125,3 +125,15 @@ This program prints a section of Pascal's Triangle, only the last digit of each 
 The same code also runs in QB64
 
 ![pascal2_QB64.png](pascal2_QB64.png)
+
+## String Art
+
+This is based on lines drawn between points on a circle but the points are displaced on the circle so that the distance between 2 successive points varies. Then I only draw some lines based on a MOD function for extra effect.
+
+The code:
+
+[string_art.bas](string_art.bas)
+
+Output:
+
+![string_art.png](string_art.png)
