@@ -142,7 +142,10 @@ Output:
 
 This program prints the text "BASIC" on page 1 of screen 9. Then it samples the pixels of this text to draw a larger "wavy" version of the text on page 0. Then 14 of the 15 attributes in the palette are cycled through their 64 possible colors.
 
-A still image of the color cycling:
-![gridtxt_pcbasic.png](gridtxt_pcbasic.png)
-
 The code: [gridtxt.bas](gridtxt.bas)
+
+An animated gif image of the color cycling:
+
+![gridtxt_pcbasic.gif](gridtxt_pcbasic.gif)
+
+
